@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v
 appVersion: 1.10.2-1
 description: VerneMQ is a high-performance, distributed MQTT message broker
 name: vernemq
